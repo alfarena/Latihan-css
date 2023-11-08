@@ -1,0 +1,19 @@
+.one
+   {
+    background-color: #e0a3a3;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fonti {
+    font-size: 24px;
+}
+
+#two {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(172, 59%, 59%);
+    font-weight: bold;
+}
